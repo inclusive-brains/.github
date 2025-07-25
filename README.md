@@ -33,8 +33,8 @@ In 2025, Inclusive Brains and Allianz Trade committed to making the **Promethe
 
 | Name             | Role                               |
 |------------------|------------------------------------|
+| Paul Barbaste    | Co‑Founder & CTO, AI & Neuroscientist |
 | Olivier Oullier  | Co‑Founder & CEO, Neuroscientist   |
-| Paul Barbaste    | Co‑Founder & CTO, AI & Cybersecurity Specialist |
 
 Founded in 2022, Inclusive Brains is headquartered in **Marseille**, with ongoing operations in **Paris**. :contentReference[oaicite:9]{index=9}
 
