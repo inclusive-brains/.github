@@ -1,6 +1,7 @@
 # Inclusive Brains 🚀
 
-**Mission**  
+**Mission** 
+
 Inclusive Brains develops adaptive, multimodal and non‑invasive brain computer interfaces to empower individuals—regardless of physical ability—to control digital environments using brainwaves, facial expressions, eye movements, or physiological signals. Our solutions aim to restore autonomy in work, education, and everyday digital life. :contentReference[oaicite:1]{index=1}
 
 ---
