@@ -1,5 +1,3 @@
-# .github
-
 # Inclusive Brains 🚀
 
 **Mission**  
